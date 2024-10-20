@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-This Haonan Chang. I am currently a fifth year Ph.D. student at Rutgers Student major in robotics. My research interest is major in LLM/VLM driven robotics system, scene understanding and  manipulation under complex scenarios.
+This Haonan Chang. I am currently a fifth year Ph.D. student at Rutgers Student major in robotics. My research interest is major in LLM/VLM-driven robotics system, scene understanding and  manipulation under complex scenarios.
 
 My personal website: [https://changhaonan.github.io](https://changhaonan.github.io) .
 <!--
