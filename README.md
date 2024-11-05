@@ -5,3 +5,5 @@ Models, for robotic manipulation and navigation systems. I also specialize in sc
 3D reconstruction, and SLAM.
 
 My personal website: [https://changhaonan.github.io](https://changhaonan.github.io) .
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=changhaonan)](https://github.com/anuraghazra/github-readme-stats)
